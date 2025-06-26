@@ -1,6 +1,4 @@
----
-
-# 🎳 Descripción del Problema
+## 🎳 Descripción del Problema
 
 Crea un programa que, dada una secuencia válida de lanzamientos para una línea de *Bowling Americano de Diez Pines*, calcule el **puntaje total** de la partida.
 
