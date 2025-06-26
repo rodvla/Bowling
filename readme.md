@@ -42,7 +42,7 @@ Calcular el **puntaje total** de la partida, que es la suma de los puntajes de l
 ---
 
 ## 🧪 Resultado de los Tests
-
+npm install & npm test
 
 ```bash
 > bowling@1.0.0 test
